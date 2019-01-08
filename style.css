@@ -3,16 +3,6 @@ body{
     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
 }
 
-.content {
-    max-width: 500px;
-    margin: auto;
-    background: #fffafa;
-    padding: 15px;
-    margin-top: 100px;
-    border-radius: 5px;
-    padding-bottom: 70px;
-  }
-
 .header {
     max-width: 300px;
     margin: auto;
@@ -21,4 +11,24 @@ body{
     margin-top: 100px;
     border-radius: 5px;
     padding: 2px;
+}
+
+.content {
+    max-width: 500px;
+    margin: auto;
+    background: #fffafa;
+    padding: 15px;
+    margin-top: 70px;
+    border-radius: 5px;
+    padding-bottom: 70px;
+  }
+
+.result {
+    max-width: 500px;
+    margin: auto;
+    background: #fffafa;
+    padding: 15px;
+    margin-top: 50px;
+    border-radius: 5px;
+    padding-bottom: 70px;
 }
