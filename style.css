@@ -1,0 +1,24 @@
+body{
+    background-image: url("ski_lift.jpg");
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+.content {
+    max-width: 500px;
+    margin: auto;
+    background: #fffafa;
+    padding: 15px;
+    margin-top: 100px;
+    border-radius: 5px;
+    padding-bottom: 70px;
+  }
+
+.header {
+    max-width: 300px;
+    margin: auto;
+    background: #448dee;
+    text-align: center;
+    margin-top: 100px;
+    border-radius: 5px;
+    padding: 2px;
+}
